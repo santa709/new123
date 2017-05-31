@@ -1,0 +1,35 @@
+body{
+	background-color: pink;
+}
+h1{
+	text-align: center;
+	color: #BE4590;
+	font-size: 55px;
+}
+
+/*МОЙ Блок*/
+.alisa{
+	max-width: 940px;
+	margin: 0 auto;
+	background-color: lightpink;
+	padding: 5%;
+	text-align: justify;
+}
+.alisa a{
+	text-decoration: none;
+	color: #BE4590;
+	font-size: 19px;
+	font-weight: 500;
+}
+.alisa h2{
+	color: #622173;
+	text-align: center;
+}
+.alisa h3{
+	color: #E51E33;
+}
+.alisa img{
+	max-width: 70%;
+	margin-left: 15%; 
+}
+/**/
